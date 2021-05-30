@@ -9,10 +9,73 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!"
+        android:background="#CBF393"
+        android:backgroundTint="#A0E1E1"
+        android:backgroundTintMode="screen"
+        android:ems="15"
+        android:freezesText="false"
+        android:text="Hello Geekbrains!"
+        android:textAlignment="center"
+        android:textSize="16sp"
+        android:textStyle="normal|bold"
+        android:verticalScrollbarPosition="right"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.039" />
+
+    <EditText
+        android:id="@+id/editTextTextPersonName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:fontFamily="cursive"
+        android:hint="name"
+        android:inputType="textPersonName"
+        android:text="Hello GeekBrains!"
+        android:textSize="42sp"
+        tools:layout_editor_absoluteX="-79dp"
+        tools:layout_editor_absoluteY="86dp" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="2"
+        android:ems="20"
+        android:lines="2"
+
+        android:text="Please,press me"
+        android:textAlignment="center"
+        android:textSize="12sp"
+        android:textStyle="normal|bold|italic"
+        tools:layout_editor_absoluteX="44dp"
+        tools:layout_editor_absoluteY="190dp" />
+
+    <Switch
+        android:id="@+id/switch1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Switch"
+        tools:layout_editor_absoluteX="273dp"
+        tools:layout_editor_absoluteY="274dp" />
+
+    <ToggleButton
+        android:id="@+id/toggleButton2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ToggleButton"
+        tools:layout_editor_absoluteX="40dp"
+        tools:layout_editor_absoluteY="278dp" />
+
+    <CheckBox
+        android:id="@+id/checkBox2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="CheckBox"
+        tools:layout_editor_absoluteX="43dp"
+        tools:layout_editor_absoluteY="381dp" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

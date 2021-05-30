@@ -32,6 +32,6 @@
         app:drawableTint="#EFE375"
         tools:ignore="MissingConstraints"
         tools:layout_editor_absoluteX="173dp"
-        tools:layout_editor_absoluteY="42dp" />
+        tools:layout_editor_absoluteY="16dp" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
