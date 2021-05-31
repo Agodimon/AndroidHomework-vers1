@@ -1,3 +1,23 @@
 <resources>
-    <string name="app_name">AndroidHomework-vers1</string>
+    <string name="app_name">AndroidHomework-v.1</string>
+    <string name="hello_world">Hello World!!!!</string>
+    <string name="textview">TextView_</string>
+    <string name="hello_geekBrains">Hello GeekBrains!</string>
+    <string name="name">name</string>
+    <string name="hello_geekBrains1">Hello GeekBrains!</string>
+    <string name="please_press_me">Please,press me</string>
+    <string name="switch2">Switch</string>
+    <string name="toggleButton1">ToggleButton</string>
+    <string name="checkbox1">CheckBox</string>
+    <string name="textview1">Second SCREEN</string>
+    <string name="switch1">Switch</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="first_screen">FIRST SCREEN</string>
+    <string name="password">password</string>
+    <string name="toggleButtons">ToggleButton</string>
+    <string name="password1">Пароль</string>
+    <string name="numberPhone">Номер телефона:</string>
+    <string name="address">Адрес:</string>
+    <string name="input_text1">Input number</string>
+
 </resources>
