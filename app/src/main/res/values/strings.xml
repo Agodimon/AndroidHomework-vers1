@@ -2,4 +2,11 @@
     <string name="app_name">AndroidHomework-vers1</string>
     <string name="hello_world">Hello World!!!!</string>
     <string name="textview">TextView_</string>
+    <string name="hello_geekbrains">Hello Geekbrains!</string>
+    <string name="name">name</string>
+    <string name="hello_geekbrains1">Hello GeekBrains!</string>
+    <string name="please_press_me">Please,press me</string>
+    <string name="switch">Switch</string>
+    <string name="togglebutton1">ToggleButton</string>
+    <string name="checkbox1">CheckBox</string>
 </resources>
