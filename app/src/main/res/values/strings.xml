@@ -14,4 +14,8 @@
     <string name="checkbox">CheckBox</string>
     <string name="first_screen">FIRST SCREEN</string>
     <string name="password">password</string>
+    <string name="toggleButtons">ToggleButton</string>
+    <string name="password1">Пароль</string>
+    <string name="numberPhone">Номер телефона:</string>
+    <string name="address">Адрес:</string>
 </resources>
