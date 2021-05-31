@@ -32,12 +32,12 @@
         android:background="#F8FAC2"
         android:ems="10"
         android:inputType="textPassword"
-        android:text="@string/password"
+
         app:layout_constraintBottom_toTopOf="@+id/editTextTextEmailAddress2"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         tools:ignore="LabelFor"
-        tools:text="@string/password" />
+        tools:text="password" />
 
     <EditText
         android:id="@+id/editTextTextEmailAddress2"
