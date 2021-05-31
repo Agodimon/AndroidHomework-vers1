@@ -18,4 +18,5 @@
     <string name="password1">Пароль</string>
     <string name="numberPhone">Номер телефона:</string>
     <string name="address">Адрес:</string>
+
 </resources>
